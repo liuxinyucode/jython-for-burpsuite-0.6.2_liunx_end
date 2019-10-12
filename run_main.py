@@ -6,7 +6,7 @@ import threading
 import to_mysql
 import datetime
 driver = webdriver.Remote(
-    command_executor="192.168.99.100:32775/wd/hub",
+    command_executor="192.168.99.100:32768/wd/hub",
     desired_capabilities=DesiredCapabilities.CHROME)
 
 if __name__ == '__main__':
