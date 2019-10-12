@@ -1,0 +1,8 @@
+encoding:
+utf-8
+sava_parh:
+save.txt
+url_key:
+ /ImService-main/
+url xpath:
+/(.*?)HTTP
